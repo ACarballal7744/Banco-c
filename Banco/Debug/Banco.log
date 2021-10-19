@@ -1,0 +1,58 @@
+﻿  adapter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1603,65): error C2676: '==' binario: 'const _Ty' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+          with
+          [
+              _Ty=debitCard
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1602): message : al compilar la función del miembro clase plantilla "auto std::list<debitCard,std::allocator<debitCard>>::remove(const _Ty &)"
+          with
+          [
+              _Ty=debitCard
+          ]
+C:\Users\Alan\source\repos\Banco\Banco\usuario.h(16): message : Vea la referencia a la creación de una instancia de clase plantilla "std::list<debitCard,std::allocator<debitCard>>" que se está compilando
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1614,1): error C2451: una expresión condicional de tipo "void" no es válida
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1614,22): message : Las expresiones de tipo void no se pueden convertir en otros tipos
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1603): message : Vea la referencia a la creación de una instancia de la función plantilla "auto std::list<debitCard,std::allocator<debitCard>>::remove_if<std::list<debitCard,std::allocator<debitCard>>::remove::<lambda_f81cdcbd08ec788c1cbb5bd52fc84c1e>>(_Pr1)" que se está compilando
+          with
+          [
+              _Pr1=std::list<debitCard,std::allocator<debitCard>>::remove::<lambda_f81cdcbd08ec788c1cbb5bd52fc84c1e>
+          ]
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1603,65): error C2676: '==' binario: 'const _Ty' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+          with
+          [
+              _Ty=debitCard
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1602): message : al compilar la función del miembro clase plantilla "auto std::list<debitCard,std::allocator<debitCard>>::remove(const _Ty &)"
+          with
+          [
+              _Ty=debitCard
+          ]
+C:\Users\Alan\source\repos\Banco\Banco\usuario.h(16): message : Vea la referencia a la creación de una instancia de clase plantilla "std::list<debitCard,std::allocator<debitCard>>" que se está compilando
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1614,1): error C2451: una expresión condicional de tipo "void" no es válida
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1614,22): message : Las expresiones de tipo void no se pueden convertir en otros tipos
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1603): message : Vea la referencia a la creación de una instancia de la función plantilla "auto std::list<debitCard,std::allocator<debitCard>>::remove_if<std::list<debitCard,std::allocator<debitCard>>::remove::<lambda_f81cdcbd08ec788c1cbb5bd52fc84c1e>>(_Pr1)" que se está compilando
+          with
+          [
+              _Pr1=std::list<debitCard,std::allocator<debitCard>>::remove::<lambda_f81cdcbd08ec788c1cbb5bd52fc84c1e>
+          ]
+  tarjeta.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1603,65): error C2676: '==' binario: 'const _Ty' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+          with
+          [
+              _Ty=debitCard
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1602): message : al compilar la función del miembro clase plantilla "auto std::list<debitCard,std::allocator<debitCard>>::remove(const _Ty &)"
+          with
+          [
+              _Ty=debitCard
+          ]
+C:\Users\Alan\source\repos\Banco\Banco\usuario.h(16): message : Vea la referencia a la creación de una instancia de clase plantilla "std::list<debitCard,std::allocator<debitCard>>" que se está compilando
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1614,1): error C2451: una expresión condicional de tipo "void" no es válida
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1614,22): message : Las expresiones de tipo void no se pueden convertir en otros tipos
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(1603): message : Vea la referencia a la creación de una instancia de la función plantilla "auto std::list<debitCard,std::allocator<debitCard>>::remove_if<std::list<debitCard,std::allocator<debitCard>>::remove::<lambda_f81cdcbd08ec788c1cbb5bd52fc84c1e>>(_Pr1)" que se está compilando
+          with
+          [
+              _Pr1=std::list<debitCard,std::allocator<debitCard>>::remove::<lambda_f81cdcbd08ec788c1cbb5bd52fc84c1e>
+          ]
+  Generando código...
